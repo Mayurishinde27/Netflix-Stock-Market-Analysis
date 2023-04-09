@@ -1,1 +1,1 @@
-# Stock-Market-Prediction USING ML
+# Stock Market Prediction Using Machine Learning
