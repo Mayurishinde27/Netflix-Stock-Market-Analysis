@@ -1,7 +1,9 @@
 
 ## Netflix Stock Price Prediction with Python and Machine Learning (2023)
-![netflix](https://github.com/Mayurishinde27/Netflix-Stock-Market-Analysis/assets/85113641/0d843aba-8ced-415a-835a-356904407c3a)
 
+![netflix](https://github.com/Mayurishinde27/Netflix-Stock-Market-Analysis/assets/85113641/2068f367-9d58-4af1-9dc9-4046ae103a41)
+
+-----------------------------------------------
 
 ### Description:
 - [x] In this project, I use **Python** and a **machine learning** technique called **linear regression** to predict the future prices of Netflix stocks.
